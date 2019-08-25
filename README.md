@@ -10,4 +10,4 @@ Step 2: Preprocessing <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Noise Reduction <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Binarization <br/>
 Step 3: Character Segmentation <br/>
-Step 4: Optical Character Segmentation using CNNs
+Step 4: Optical Character Segmentation using Google Tesseract
